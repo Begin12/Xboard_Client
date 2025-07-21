@@ -98,7 +98,7 @@ data class Plan(
 
 object ApiClient {
     // 请在此处替换为你的V2Board域名
-    private const val BASE_URL = "https://app.cloudlion.me/api/v1"
+    private const val BASE_URL = "https://my.aisu.me/api/v1"
     
     private var authToken: String? = null
     
